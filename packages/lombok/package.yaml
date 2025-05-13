@@ -10,7 +10,7 @@ categories:
   - Runtime
 
 source:
-  id: pkg:generic/lombok/lombok.jar@stable
+  id: pkg:generic/lombok/lombok.jar@latest
   download:
     - target: [darwin_x64, darwin_arm64]
       files:
